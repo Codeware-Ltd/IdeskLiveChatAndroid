@@ -22,7 +22,7 @@ To use the IdeskLiveChat Android SDK, you'll need to add it as a dependency in y
 
 ```gradle
 dependencies {
-   	implementation 'com.github.Codeware-Ltd:IdeskLiveChatLibAndroid:latest_version'
+   	implementation 'com.github.Codeware-Ltd:IdeskLiveChatAndroid:latest_version'
 }
 ```
 
